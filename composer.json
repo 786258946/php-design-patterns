@@ -1,0 +1,26 @@
+{
+  "name": "82nlxj/design-patterns",
+  "description": "php design patterns",
+  "type": "project",
+  "keywords": [
+    "php",
+    "82nlxj",
+    "design patterns"
+  ],
+  "homepage": "https://www.phpassn.com/",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "82nlxj",
+      "email": "2511221051@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "82nlxj\\DesignPatterns\\": "src/"
+    }
+  }
+}
