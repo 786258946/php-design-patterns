@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    '82nlxj\\DesignPatterns\\' => array($baseDir . '/src'),
+    'liyangyang\\DesignPatterns\\' => array($baseDir . '/src'),
 );
